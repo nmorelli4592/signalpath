@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<title></title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+
+	<div class="container">
+		<h2> Tasks</h2>
+
+
+		<div class="row">
+			<div class="col-xs-2" style="text-align : right">
+				<label>Project:</label>
+			</div>
+			<div class="col-md-3 col-xs-6">
+				<select>
+                    <option *ngFor="let project of projects" value="{{project.Id}}">
+                        {{project.Name}}
+                    </option>
+                </select>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-xs-2" style="text-align : right">
+				<label>Name:</label>
+			</div>
+
+			<div class="col-xs-6 col-md-3">
+
+				<input #description style="width:100%" />
+			</div>
+		</div>
+        
+		<div class="row">
+			<div class="col-xs-2" style="text-align : right">
+				<label>Type:</label>
+			</div>
+
+
+			<div class="col-md-3 col-xs-6">
+				<select (change)="onCategorySelect($event.target.value)">
+                    <option *ngFor="let taskCategory of taskCategories" value="{{taskCategory.Id}}">
+                        {{taskCategory.Description}}
+                    </option>
+                </select>
+			</div>
+
+		</div>
+
+
+		<div class="row">
+			<div class="col-md-7">
+				Notes:
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-8">
+				<textarea rows="5" #notes class="form-control" [(ngModel)]="TaskNotes" id="TaskNotes" name="TaskNotes" style="width:100%"> </textarea>
+
+			</div>
+		</div>
+		<div class="row">
+			<button (click)="saveTask(description.value,notes.value)">Save</button>
+
+			<button (click)="goBack()">Back</button>
+
+		</div>
+
+	</div>
+</body>
+
+</html>

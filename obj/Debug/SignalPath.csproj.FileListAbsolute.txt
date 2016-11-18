@@ -1,0 +1,184 @@
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\ApplicationInsights.config
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\csc.exe
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\vbc.exe
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\VBCSCompiler.exe
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\SignalPath.dll.config
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\SignalPath.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\SignalPath.pdb
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.Web.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Newtonsoft.Json.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Swashbuckle.Core.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.Net.Http.Formatting.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.Web.Http.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.Web.Http.WebHost.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\WebActivatorEx.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.Web.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\Newtonsoft.Json.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.Net.Http.Formatting.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.Web.Http.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\bin\System.Web.Http.WebHost.xml
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\obj\Debug\SignalPath.dll
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\obj\Debug\SignalPath.pdb
+C:\Users\nmore\documents\visual studio 2015\Projects\SignalPath\SignalPath\obj\Debug\SignalPath.csprojResolveAssemblyReference.cache
+E:\Dropbox\SignalPath (1)\SignalPath\bin\ApplicationInsights.config
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\csc.exe
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\System.Collections.Immutable.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\System.Reflection.Metadata.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\vbc.exe
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\VBCSCompiler.exe
+E:\Dropbox\SignalPath (1)\SignalPath\bin\roslyn\VBCSCompiler.exe.config
+E:\Dropbox\SignalPath (1)\SignalPath\bin\SignalPath.dll.config
+E:\Dropbox\SignalPath (1)\SignalPath\bin\SignalPath.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\SignalPath.pdb
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.DependencyCollector.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.Web.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.WindowsServer.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.ApplicationInsights.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Newtonsoft.Json.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Swashbuckle.Core.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.Net.Http.Formatting.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.Web.Http.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.Web.Http.WebHost.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\WebActivatorEx.dll
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.DependencyCollector.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.Web.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.AI.WindowsServer.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.ApplicationInsights.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\Newtonsoft.Json.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.Net.Http.Formatting.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.Web.Http.xml
+E:\Dropbox\SignalPath (1)\SignalPath\bin\System.Web.Http.WebHost.xml
+E:\Dropbox\SignalPath (1)\SignalPath\obj\Debug\SignalPath.csprojResolveAssemblyReference.cache
+E:\Dropbox\SignalPath (1)\SignalPath\obj\Debug\SignalPath.dll
+E:\Dropbox\SignalPath (1)\SignalPath\obj\Debug\SignalPath.pdb
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\ApplicationInsights.config
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\csc.exe
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\vbc.exe
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\VBCSCompiler.exe
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\SignalPath.dll.config
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\SignalPath.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\SignalPath.pdb
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.Web.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Newtonsoft.Json.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Swashbuckle.Core.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.Net.Http.Formatting.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.Web.Http.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.Web.Http.WebHost.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\WebActivatorEx.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.Web.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\Newtonsoft.Json.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.Net.Http.Formatting.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.Web.Http.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\bin\System.Web.Http.WebHost.xml
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\obj\Debug\SignalPath.dll
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\obj\Debug\SignalPath.pdb
+C:\Users\nmore\Dropbox\SignalPath\SignalPath\obj\Debug\SignalPath.csprojResolveAssemblyReference.cache
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\ApplicationInsights.config
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\csc.exe
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\vbc.exe
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\VBCSCompiler.exe
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\SignalPath.dll.config
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\SignalPath.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\SignalPath.pdb
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.Web.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.ApplicationInsights.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Newtonsoft.Json.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Swashbuckle.Core.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.Net.Http.Formatting.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.Web.Http.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.Web.Http.WebHost.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\WebActivatorEx.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.Web.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.ApplicationInsights.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\Newtonsoft.Json.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.Net.Http.Formatting.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.Web.Http.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\bin\System.Web.Http.WebHost.xml
+C:\Users\nmore\Documents\SignalPath\SignalPath\obj\Debug\SignalPath.dll
+C:\Users\nmore\Documents\SignalPath\SignalPath\obj\Debug\SignalPath.pdb
+C:\Users\nmore\Documents\SignalPath\SignalPath\obj\Debug\SignalPath.csprojResolveAssemblyReference.cache

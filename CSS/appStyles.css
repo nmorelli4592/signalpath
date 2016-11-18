@@ -1,0 +1,59 @@
+﻿.containerk {
+    background-color: aquamarine;
+    color: purple;
+    font-style:italic;
+
+}
+div {
+    font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+    
+    padding: 5px;
+}
+
+.selection {
+    background-color :  aliceblue;
+    width : 100%;
+    height: 20px;
+}
+.button {
+    background-color: white; /* Green */
+    border : 1px solid #32a4fa;
+    color: black;
+
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.hideoption { display:none; visibility:hidden; height:0; font-size:0; }
+.button:hover {
+     background-color: #ff6a00;
+    color: white;
+    border-color : white;
+   
+}
+.label {
+
+      font-family : 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif  ;
+    color : black;
+    padding: 5px;
+}
+
+
+}
+.textentry {
+    width: 50px;
+}
+.timelog {
+    border-style : solid;
+    border-width : 1px;
+    border-color : lightgray;
+}
+.page-header {
+    height : 100px;
+    margin-top: 10px;
+    border-bottom-style :ridge;
+}

@@ -1,0 +1,178 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>SignalPath</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+    <div class="container">
+
+        <!--<div class="page-header">
+            <img border="0" alt="W3Schools" src="../Content/SPLogo.png">
+            <div class="pull-right">
+                Logged in as: nmorelli
+                <img src="../Content/img.png" />
+            </div>
+        </div>-->
+        <div>
+        <h3> Time Entry</h3>
+       </div>
+             <div class="row">
+            <div class="col-xs-2" style="text-align : right">
+                Client:
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <select [(ngModel)]="selectedCustomerId" (change)="onSelect($event.target.value)" class="selection">
+                    <option disabled value="0" class="hideoption">Select a Client</option>
+                    <option *ngFor="let customer of customers" value="{{customer.Id}}">
+                        {{customer.FirstName}} {{customer.LastName}}
+                    </option>
+                </select>
+            </div>
+
+        </div>
+
+        <!-- Address Selection -->
+        <div class="row">
+            <div class="col-xs-2 " style="text-align : right">
+                Address:
+            </div>
+
+            <div class="col-md-3  col-xs-6">
+
+                <select class="selection" (change)="onAddSelect($event.target.value)">
+                    <option disabled value="0" class="hideoption">Select an Address</option>
+                    <option value="{{address.Id}}" *ngFor="let address of filteredAddresses">
+                        {{address.AddressName}}
+                    </option>
+                </select>
+
+            </div>
+        </div>
+
+        <!-- GPS address -->
+
+        <div class="row">
+            <div class="col-xs-2" style="text-align : right">
+                Current Address:
+            </div>
+            <div class="col-md-3  col-xs-6">
+            </div>
+            <button class="button">
+                MAP
+            </button>
+        </div>
+
+
+
+        <!-- Project Selection -->
+        <div class="row"style="margin-bottom : 30px">
+            <div class="col-xs-2" style="text-align : right">
+                Project:
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+
+                <select class="selection">
+                    <option disabled value="0" class="hideoption">Select a Project</option>
+                    <option value="{{project.Id}}" *ngFor="let project of filteredProjects">
+                        {{project.Name}}
+                    </option>
+                </select>
+            </div>
+            <!--<button class="button">
+                BOM
+            </button>-->
+
+        </div>
+
+        <div class="row">
+         
+        </div>
+
+        <div class="row">
+            <div class="col-xs-2" style="text-align : right">
+                Task:
+            </div>
+
+            <div class="col-md-3 col-xs-6">
+                <select class="selection" [(ngModel)]="selectedTask" (ngModelChange)="taskChange($event)">
+                    <option *ngFor="let task of tasks" [ngValue]="task" >
+                        {{task.Description}}
+                    </option>
+                </select>
+            </div>
+            <div class="col-xs-1">
+                <button class="button" (click)="addTask();">
+                    Add
+                </button>
+            </div>
+        </div>
+
+
+        <!-- Task Category -->
+        <div class="row"  *ngIf="selectedTask">
+            <div class="col-xs-2" style="text-align : right">
+                Type:
+            </div>
+
+            <div class="col-md-3 col-xs-6"  *ngIf="selectedTask">
+                
+                {{selectedTaskCategory?.Description}}
+
+            </div>
+        </div>
+
+       
+        <!-- Notes -->
+        <div class="row"  *ngIf="selectedTask">
+            <div class="col-md-7">
+                Task Notes:
+            </div>
+        </div>
+        <div class="row"  *ngIf="selectedTask">
+            <div class="col-md-8">
+                <textarea rows="5" class="form-control" [(ngModel)]="selectedTask.Notes" style="width:100%"> </textarea>
+
+            </div>
+        </div>
+        
+
+        <!-- Time Entry -->
+        <div class="row" style="margin-top : 30px" *ngIf="selectedTask">
+            <div class="col-xs-2" style="text-align : right">
+                <label>Start Time:</label>
+            </div>
+            <div class="col-xs-2">
+
+                <input type="datetime" #stTime style="width:100%" />
+            </div>
+
+          
+
+            <div class="col-xs-2" style="text-align : right">
+                <label>End Time:</label>
+            </div>
+            <div class="col-xs-2">
+                <input #endTime style="width:100%" />
+            </div>
+
+            <div class="col-xs-1">
+                <button class="button" (click)="addTimes(stTime.value,endTime.value);">
+                    Save
+                </button>
+
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+
+</body>
+</html>
