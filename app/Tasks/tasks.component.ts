@@ -3,9 +3,9 @@
 import { Component, OnInit } from '@angular/core';
 
 import { Router } from '@angular/router';
-import {TaskService}   from './task.service';
-import {TaskCategoryService} from './taskcategory.service';
-import {ProjectService} from './project.service'
+import {TaskService}   from '../Services/task.service';
+import {TaskCategoryService} from '../Services/taskcategory.service';
+import {ProjectService} from '../Services/project.service'
 import {Observable } from 'rxjs/Rx';
 
 @Component({

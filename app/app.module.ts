@@ -7,21 +7,21 @@ import { RouterModule } from '@angular/router';
 
 
 import { AppComponent }  from './app.component';
-import { ProjectComponent} from './project.component';
-import { TasksComponent }  from './tasks.component';
+import { TimeLoggingComponent} from './TimeLogging/time-logging.component';
+import { TasksComponent }  from './Tasks/tasks.component';
 
-import { LoginComponent }  from './login.component';
+//import { LoginComponent }  from './login.component';
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
 
 @NgModule({
 
-    declarations: [AppComponent, ProjectComponent, TasksComponent],
+    declarations: [AppComponent, TimeLoggingComponent, TasksComponent],
     imports: [BrowserModule,
         HttpModule,
         FormsModule, RouterModule.forRoot([
-            { path: '', redirectTo: '/projects', pathMatch: 'full' },
-            { path: 'projects', component: ProjectComponent },
+            { path: '', redirectTo: '/timelog', pathMatch: 'full' },
+            { path: 'timelog', component: TimeLoggingComponent },
             { path: 'tasks', component: TasksComponent }
         ])
     ],

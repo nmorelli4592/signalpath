@@ -131,7 +131,6 @@
     <Content Include="app\Tasks.html" />
     <Content Include="Content\img.png" />
     <Content Include="CSS\appStyles.css" />
-    <Content Include="app\JobStatus.html" />
     <Content Include="Content\SPLogo.png" />
     <Content Include="Content\ui-bootstrap-csp.css" />
     <Content Include="Global.asax" />

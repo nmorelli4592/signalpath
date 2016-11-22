@@ -1,5 +1,5 @@
 ﻿import {Injectable } from '@angular/core';
-import {Task} from'./task';
+import {Task} from'../Tasks/task';
 import {Headers, Http, URLSearchParams } from '@angular/http';
 import 'rxjs/add/operator/toPromise';
 import 'rxjs/add/operator/filter';

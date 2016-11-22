@@ -1,17 +1,16 @@
 import { Component, OnInit } from '@angular/core';
 import { RouteConfig, RouterOutlet } from '@angular/router-deprecated';
 import { Router } from '@angular/router';
-import {CustomerService}   from './customer.service';
-import {WorkHourService}   from './workhour.service';
-import {AddressService}   from './address.service';
-import {TaskService}   from './task.service';
-import {TaskCategoryService} from './taskcategory.service';
-import {TaskTimeService} from './tasktime.service';
-import {ProjectService}   from './project.service';
+import {CustomerService}   from '../Services/customer.service';
+import {WorkHourService}   from '../Services/workhour.service';
+import {AddressService}   from '../Services/address.service';
+import {TaskService}   from '../Services/task.service';
+import {TaskCategoryService} from '../Services/taskcategory.service';
+import {TaskTimeService} from '../Services/tasktime.service';
+import {ProjectService}   from '../Services/project.service';
 import {Observable } from 'rxjs/Rx';
-import {Task } from './task';
-
-import {TaskCategory } from './task';
+import {Task } from '../Tasks/task';
+import {TaskCategory } from '../Tasks/task';
 
 
 @Component({
@@ -19,13 +18,13 @@ import {TaskCategory } from './task';
     selector: 'my-project',
     providers: [CustomerService, WorkHourService, AddressService, TaskService, ProjectService, TaskCategoryService, TaskTimeService],
 
-    templateUrl: 'JobStatus.html',
+    templateUrl: 'Time-Logging.html',
     // pipes: [AddressPipe]
     // styleUrls: ['app/appStyles.css']
 
 
 })
-export class ProjectComponent implements OnInit {
+export class TimeLoggingComponent implements OnInit {
     customers: any[];
     workHours: any[];
     taskTimes: any[];
@@ -76,7 +75,7 @@ export class ProjectComponent implements OnInit {
 
     //timeLogging function
     addTimes(stTime: Date, endTime: Date): void {
-        name = name.trim();
+        //name = name.trim();
 
         this.taskTimeService.create(stTime, endTime, this.selectedTaskId)
             .then(timeLog => {
